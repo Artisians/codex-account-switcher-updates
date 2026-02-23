@@ -4,12 +4,12 @@
         <title>Codex Account Manager</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Mon, 23 Feb 2026 11:38:03 +0200</pubDate>
+            <pubDate>Mon, 23 Feb 2026 11:39:56 +0200</pubDate>
             <sparkle:version>69</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Artisians/codex-account-switcher-updates/releases/download/v1.0.0/Codex-Account-Manager-1.0.0-macos-arm64.zip" length="2268819" type="application/octet-stream" sparkle:edSignature="/lBKPAKsKUa/zUCfoco76ssz4N9Pf2F+1eJ27xhihARaNDQUYn0cG06xJSUREY2MbrUiZDx59DVIm8uaSGH1Aw=="/>
+            <enclosure url="https://github.com/Artisians/codex-account-switcher-updates/releases/download/v1.0.0/Codex-Account-Manager-1.0.0-macos-arm64.zip" length="2268509" type="application/octet-stream" sparkle:edSignature="enI6IALakIxEPVSrQWGq7qQvMlUDxlePs6KBLyGogUj+bpi+rfPQ/i03HOALwSn6atQ0TUH8wHQ8629L7zo/Bg=="/>
         </item>
     </channel>
 </rss>
