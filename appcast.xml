@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/Codex-Account-Manager-v1.0.0-build68.zip" length="2268537" type="application/octet-stream" sparkle:edSignature="LJqNST1Dz/nFMLmWBirPW+8E/2+p2/tNzgEeWd3XNPJzGw/2kQ70i8CQLnLNcOG0sUPD14VfznPc1o38Z3bqBA=="/>
+            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/main/Codex-Account-Manager-v1.0.0-build68.zip" length="2268537" type="application/octet-stream" sparkle:edSignature="LJqNST1Dz/nFMLmWBirPW+8E/2+p2/tNzgEeWd3XNPJzGw/2kQ70i8CQLnLNcOG0sUPD14VfznPc1o38Z3bqBA=="/>
         </item>
         <item>
             <title>1.0.0</title>
@@ -18,7 +18,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/Codex-Account-Manager-v1.0.0-build67.zip" length="2272875" type="application/octet-stream"/>
+            <enclosure url="https://raw.githubusercontent.com/Artisians/codex-account-switcher-updates/main/Codex-Account-Manager-v1.0.0-build67.zip" length="2272875" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
