@@ -3,13 +3,13 @@
     <channel>
         <title>Codex Account Manager</title>
         <item>
-            <title>0.0.7</title>
-            <pubDate>Sat, 28 Mar 2026 20:25:03 +0200</pubDate>
-            <sparkle:version>394</sparkle:version>
-            <sparkle:shortVersionString>0.0.7</sparkle:shortVersionString>
+            <title>0.0.8</title>
+            <pubDate>Sun, 29 Mar 2026 05:13:54 +0200</pubDate>
+            <sparkle:version>395</sparkle:version>
+            <sparkle:shortVersionString>0.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/Artisians/codex-account-manager-updates/releases/download/v0.0.7/Codex-Account-Manager-0.0.7-macos-arm64.dmg" length="3125402" type="application/octet-stream" sparkle:edSignature="edqueW4l2Of04Uui0f0iior+pDv1o+/R2KTtWibL/jgg1neogGo75iYDaIXwYA6oeNxaBPlO0yMZfFpX6SkgDQ=="/>
+            <enclosure url="https://github.com/Artisians/codex-account-manager-updates/releases/download/v0.0.8/Codex-Account-Manager-0.0.8-macos-arm64.dmg" length="3389282" type="application/octet-stream" sparkle:edSignature="sZWOqv9fHsACgFipC/yQwGg/wwcZ8cJQPnMtu8KhQVO4vsEE0COUO8kUIbIn62vzJyfS1vKBpCGQPDfnJlJABw=="/>
         </item>
     </channel>
 </rss>
